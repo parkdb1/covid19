@@ -1,0 +1,11 @@
+
+header{font-size:1.5rem;font-weight:bold;text-align:center;margin-top:20px;}
+
+/* 서울,경기 리스트 */
+.pie{width:100%;display:flex;justify-content:space-between;margin:50px;}
+.list{width:20%;}
+.list li{list-style:none;padding:5px;cursor:pointer;border-bottom:1px solid #eee;}
+.list li:hover{font-weight: bold;color:#0000FF	;}
+.graph{width:60%;height:700px;text-align:center;border:1px solid #eee;}
+table{width:80%;border-collapse:collapse;margin:0 auto;text-align:center;}
+
